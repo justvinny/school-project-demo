@@ -1,3 +1,7 @@
+# Code Posted
+Marks have been released and I am now allowed to share my source code to the public.
+[Click here](https://github.com/justvinny/life-manager-app/tree/main)
+
 # Life Manager Application Demo
 This is a demo for my Weekly Scheduling and Journal Entry application that I made as part of a school project where we have to design and implement our own program. I am not able to post the source code yet due to plagiarism concerns at University, but will definitely be posting it after this semester ends. 
 
